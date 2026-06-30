@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="160" height="212" viewBox="0 0 160 212">
+  <rect width="160" height="212" rx="24" fill="#1C2135" fill-opacity="0.95" />
+  <text x="80" y="45" font-family="Inter, sans-serif" font-size="32" font-weight="700" fill="#ffffff" text-anchor="middle">98%</text>
+  <text x="80" y="65" font-family="Inter, sans-serif" font-size="14" font-weight="500" fill="#aaaaaa" text-anchor="middle">Точность</text>
+  
+  <circle cx="80" cy="135" r="45" fill="none" stroke="#333344" stroke-width="12" />
+  <path d="M 80 90 A 45 45 0 1 1 37.57 150.01" fill="none" stroke="#007BFF" stroke-width="12" stroke-linecap="round" />
+  
+  <circle cx="80" cy="135" r="28" fill="#262C45" />
+  <!-- Sparkles -->
+  <path d="M 80 120 L 82 130 L 92 132 L 82 134 L 80 144 L 78 134 L 68 132 L 78 130 Z" fill="#007BFF" />
+</svg>
