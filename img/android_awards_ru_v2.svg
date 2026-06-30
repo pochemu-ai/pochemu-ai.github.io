@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 80" width="520" height="80">
+  <style>
+    .text { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; font-size: 16px; font-weight: 600; fill: #8a8d90; }
+    .icon { fill: #8a8d90; }
+    .leaf { fill: #8a8d90; }
+  </style>
+
+  <!-- Left Laurel Wreath Group (Editors' Choice / Выбор редакторов) -->
+  <g transform="translate(10, 0)">
+    <!-- Laurel Wreath Leaves (Left Side) -->
+    <path class="leaf" d="M 28,62 C 20,62 14,56 12,50 C 13,44 19,42 24,45 C 25,50 27,57 28,62 Z"/>
+    <path class="leaf" d="M 24,47 C 16,45 10,38 9,31 C 11,25 18,24 21,28 C 21,34 23,41 24,47 Z"/>
+    <path class="leaf" d="M 23,31 C 17,27 13,19 14,12 C 18,7 24,8 25,13 C 24,19 24,25 23,31 Z"/>
+    
+    <!-- Laurel Wreath Leaves (Right Side) -->
+    <path class="leaf" d="M 52,62 C 60,62 66,56 68,50 C 67,44 61,42 56,45 C 55,50 53,57 52,62 Z"/>
+    <path class="leaf" d="M 56,47 C 64,45 70,38 71,31 C 69,25 62,24 59,28 C 59,34 57,41 56,47 Z"/>
+    <path class="leaf" d="M 57,31 C 63,27 67,19 66,12 C 62,7 56,8 55,13 C 56,19 56,25 57,31 Z"/>
+    
+    <!-- Top Center Leaf -->
+    <path class="leaf" d="M 40,12 C 37,8 37,3 40,0 C 43,3 43,8 40,12 Z"/>
+    
+    <!-- Star Icon in center of wreath -->
+    <path class="icon" d="M 40,28 L 42.5,33 L 48,33.5 L 44,37.5 L 45,43 L 40,40 L 35,43 L 36,37.5 L 32,33.5 L 37.5,33 Z"/>
+    
+    <!-- Text -->
+    <text class="text" x="90" y="38">Выбор</text>
+    <text class="text" x="90" y="58">редакторов</text>
+  </g>
+
+  <!-- Divider Line -->
+  <line x1="245" y1="15" x2="245" y2="65" stroke="#333639" stroke-width="2"/>
+
+  <!-- Right Laurel Wreath Group (Best AI App / Лучшее AI-приложение) -->
+  <g transform="translate(265, 0)">
+    <!-- Laurel Wreath Leaves (Left Side) -->
+    <path class="leaf" d="M 28,62 C 20,62 14,56 12,50 C 13,44 19,42 24,45 C 25,50 27,57 28,62 Z"/>
+    <path class="leaf" d="M 24,47 C 16,45 10,38 9,31 C 11,25 18,24 21,28 C 21,34 23,41 24,47 Z"/>
+    <path class="leaf" d="M 23,31 C 17,27 13,19 14,12 C 18,7 24,8 25,13 C 24,19 24,25 23,31 Z"/>
+    
+    <!-- Laurel Wreath Leaves (Right Side) -->
+    <path class="leaf" d="M 52,62 C 60,62 66,56 68,50 C 67,44 61,42 56,45 C 55,50 53,57 52,62 Z"/>
+    <path class="leaf" d="M 56,47 C 64,45 70,38 71,31 C 69,25 62,24 59,28 C 59,34 57,41 56,47 Z"/>
+    <path class="leaf" d="M 57,31 C 63,27 67,19 66,12 C 62,7 56,8 55,13 C 56,19 56,25 57,31 Z"/>
+    
+    <!-- Top Center Leaf -->
+    <path class="leaf" d="M 40,12 C 37,8 37,3 40,0 C 43,3 43,8 40,12 Z"/>
+    
+    <!-- Android Head Icon in center of wreath -->
+    <path class="icon" d="M 40,25 C 36.5,25 33.5,27.5 33.1,31 L 46.9,31 C 46.5,27.5 43.5,25 40,25 Z M 35.5,28.5 A 0.8,0.8 0 1,1 34.7,28.5 A 0.8,0.8 0 1,1 35.5,28.5 Z M 44.5,28.5 A 0.8,0.8 0 1,1 43.7,28.5 A 0.8,0.8 0 1,1 44.5,28.5 Z M 33,33 L 47,33 L 47,40 C 47,42 45,44 43,44 L 37,44 C 35,44 33,42 33,40 Z M 36,44 L 36,48 M 44,44 L 44,48" stroke="#8a8d90" stroke-width="1.8" fill="none" stroke-linejoin="round"/>
+    
+    <!-- Text -->
+    <text class="text" x="90" y="38">Лучшее AI</text>
+    <text class="text" x="90" y="58">приложение</text>
+  </g>
+</svg>
