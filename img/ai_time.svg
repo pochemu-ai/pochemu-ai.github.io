@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="702" height="216" viewBox="0 0 702 216">
+  <rect width="702" height="216" rx="36" fill="#ffffff" fill-opacity="0.95" />
+  <text x="50" y="70" font-family="Inter, sans-serif" font-size="32" font-weight="600" fill="#888888">Сэкономлено времени</text>
+  <text x="50" y="145" font-family="Inter, sans-serif" font-size="76" font-weight="700" fill="#222222">8.5</text>
+  <text x="175" y="140" font-family="Inter, sans-serif" font-size="36" font-weight="500" fill="#888888">часов</text>
+  
+  <circle cx="65" cy="180" r="12" fill="#28A745" />
+  <text x="90" y="188" font-family="Inter, sans-serif" font-size="28" font-weight="600" fill="#28A745">Отличный результат</text>
+
+  <!-- Line chart -->
+  <path d="M 380 120 Q 400 160 420 140 T 460 150 T 500 110 T 540 160 T 580 140 T 620 120 T 660 80" fill="none" stroke="#28A745" stroke-width="6" stroke-linecap="round" />
+  <path d="M 380 120 Q 400 160 420 140 T 460 150 T 500 110 T 540 160 T 580 140 T 620 120 T 660 80 L 660 180 L 380 180 Z" fill="#28A745" fill-opacity="0.1" />
+  <circle cx="660" cy="80" r="10" fill="#ffffff" stroke="#28A745" stroke-width="6" />
+</svg>
