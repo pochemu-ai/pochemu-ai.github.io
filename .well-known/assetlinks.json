@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "ВСТАВЬТЕ_ИМЯ_ПАКЕТА_ПРИЛОЖЕНИЯ_СЮДА (например: com.pochemu.app)",
+      "sha256_cert_fingerprints": [
+        "ВСТАВЬТЕ_SHA256_ОТПЕЧАТОК_СЕРТИФИКАТА_СЮДА (например: 14:6D:E9:83...)"
+      ]
+    }
+  }
+]
