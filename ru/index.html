@@ -1213,10 +1213,11 @@ function submitAlphaForm(event) {
   submitBtn.innerText = 'Отправка...';
   submitBtn.disabled = true;
 
-  fetch('/api/alpha-signup', {
+  fetch('https://formspree.io/f/maqgaplb', {
     method: 'POST',
     headers: {
-      'Content-Type': 'application/json'
+      'Content-Type': 'application/json',
+      'Accept': 'application/json'
     },
     body: JSON.stringify({ name, email, source })
   })
